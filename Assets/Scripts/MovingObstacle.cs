@@ -7,7 +7,7 @@ public class MovingObstacle : MonoBehaviour {
     public float speed;
     public float distance;
 
-    private bool movingRight = true;
+    
 
     public Transform groundDetection;
 
