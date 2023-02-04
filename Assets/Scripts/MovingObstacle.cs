@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Patrole : MonoBehaviour {
+public class MovingObstacle : MonoBehaviour {
 
     public float speed;
     public float distance;
