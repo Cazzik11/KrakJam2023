@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class PlayerMovement : MonoBehaviour
 {
+    
     public ParticleSystem dust;
     private Rigidbody2D rb;
     private BoxCollider2D coll;
@@ -47,6 +48,7 @@ public class PlayerMovement : MonoBehaviour
 
     private void UpdateAnimationState()
     {
+        CreateDust();
         MovementState state;
 
         if (dirX > 0f)
