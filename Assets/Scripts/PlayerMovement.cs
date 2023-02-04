@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class PlayerMovement : MonoBehaviour
 {
+    public ParticleSystem dust;
     private Rigidbody2D rb;
     private BoxCollider2D coll;
     private SpriteRenderer sprite;
@@ -31,6 +32,7 @@ public class PlayerMovement : MonoBehaviour
     // Update is called once per frame
     private void Update()
     {
+        CreateDust();
         dirX = Input.GetAxisRaw("Horizontal");
         rb.velocity = new Vector2(dirX * moveSpeed, rb.velocity.y);
 
@@ -79,4 +81,7 @@ public class PlayerMovement : MonoBehaviour
         return Physics2D.BoxCast(coll.bounds.center, coll.bounds.size, 0f, Vector2.down, 1f, jumpableGround);
     }
 
+    void CreateDust (){
+        dust.Play();
+    }
 }
