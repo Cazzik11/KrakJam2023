@@ -53,3 +53,6 @@ TagManager:
   - name: Trunk
     uniqueID: 627510857
     locked: 0
+  - name: Player
+    uniqueID: 177762267
+    locked: 0
