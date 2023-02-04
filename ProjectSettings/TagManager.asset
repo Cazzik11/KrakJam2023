@@ -50,3 +50,6 @@ TagManager:
   - name: Terrain
     uniqueID: 685511493
     locked: 0
+  - name: Trunk
+    uniqueID: 627510857
+    locked: 0
