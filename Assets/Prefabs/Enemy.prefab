@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 8982810357354534832}
   - component: {fileID: 5058762458601461095}
   - component: {fileID: 2661474461497141303}
+  - component: {fileID: 810690446}
   m_Layer: 0
   m_Name: Enemy
   m_TagString: Trap
@@ -149,6 +150,19 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
+--- !u!114 &810690446
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8982810357354534837}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 62bbc411141e2cd4a9a81441eb23e10d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  EnemyDestroyEffect: {fileID: 8822554915250427724, guid: 69967c38da83c294186f13469503c801, type: 3}
 --- !u!1 &8982810357942063930
 GameObject:
   m_ObjectHideFlags: 0
