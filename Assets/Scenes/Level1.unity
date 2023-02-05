@@ -52106,19 +52106,19 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4818616610903089586, guid: 5392e1314deeade4fa96b0bebf599fac, type: 3}
       propertyPath: m_Size.x
-      value: 1.478065
+      value: 0.0102882385
       objectReference: {fileID: 0}
     - target: {fileID: 4818616610903089586, guid: 5392e1314deeade4fa96b0bebf599fac, type: 3}
       propertyPath: m_Size.y
-      value: 2.7759914
+      value: 0.034317017
       objectReference: {fileID: 0}
     - target: {fileID: 4818616610903089586, guid: 5392e1314deeade4fa96b0bebf599fac, type: 3}
       propertyPath: m_Offset.x
-      value: -0.0028955936
+      value: -1.1762886
       objectReference: {fileID: 0}
     - target: {fileID: 4818616610903089586, guid: 5392e1314deeade4fa96b0bebf599fac, type: 3}
       propertyPath: m_Offset.y
-      value: -0.1837709
+      value: -0.38100433
       objectReference: {fileID: 0}
     - target: {fileID: 6905087538521686974, guid: 5392e1314deeade4fa96b0bebf599fac, type: 3}
       propertyPath: m_Name
