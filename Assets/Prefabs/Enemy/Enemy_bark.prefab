@@ -15,7 +15,7 @@ GameObject:
   - component: {fileID: 2661474461497141303}
   - component: {fileID: 810690446}
   m_Layer: 0
-  m_Name: Enemy_1
+  m_Name: Enemy_bark
   m_TagString: Trap
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

@@ -15,7 +15,7 @@ GameObject:
   - component: {fileID: 810690446}
   - component: {fileID: 3848951109829610105}
   m_Layer: 0
-  m_Name: Enemy
+  m_Name: Enemy_beetle
   m_TagString: Trap
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

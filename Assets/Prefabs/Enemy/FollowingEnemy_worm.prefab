@@ -16,7 +16,7 @@ GameObject:
   - component: {fileID: 2675496978328095360}
   - component: {fileID: 7144555628930079036}
   m_Layer: 0
-  m_Name: FollowingEnemy
+  m_Name: FollowingEnemy_worm
   m_TagString: Trap
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
