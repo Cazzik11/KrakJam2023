@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 487838962}
   - component: {fileID: 487838964}
   - component: {fileID: 487838963}
-  m_Layer: 2
+  m_Layer: 0
   m_Name: FireflysPurple
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -661,7 +661,7 @@ ParticleSystem:
   ShapeModule:
     serializedVersion: 6
     enabled: 1
-    type: 5
+    type: 0
     angle: 25
     length: 5
     boxThickness: {x: 0, y: 0, z: 0}
@@ -748,7 +748,7 @@ ParticleSystem:
     sphericalDirectionAmount: 0
     randomPositionAmount: 0
     radius:
-      value: 10
+      value: 5
       mode: 0
       spread: 0
       speed:
@@ -867,7 +867,7 @@ ParticleSystem:
     rateOverTime:
       serializedVersion: 2
       minMaxState: 0
-      scalar: 20
+      scalar: 50
       minScalar: 10
       maxCurve:
         serializedVersion: 2
@@ -4824,8 +4824,8 @@ GameObject:
   - component: {fileID: 1789164241478799858}
   - component: {fileID: 4818616610903089586}
   - component: {fileID: 501382343661989320}
-  - component: {fileID: 3627760179651510353}
   - component: {fileID: 2114734459882756257}
+  - component: {fileID: 5280035478243375951}
   m_Layer: 0
   m_Name: Finish
   m_TagString: Untagged
@@ -5023,18 +5023,6 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
---- !u!114 &3627760179651510353
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6905087538521686974}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 70b927f679affdd4199ec6791f731bb1, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!95 &2114734459882756257
 Animator:
   serializedVersion: 5
@@ -5055,3 +5043,15 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
+--- !u!114 &5280035478243375951
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6905087538521686974}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6e40581377900bc4198ab00860fb5100, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
