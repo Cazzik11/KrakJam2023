@@ -18800,7 +18800,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 790407209428633261, guid: 3442e80c37fce49499ab5785e864d1d2, type: 3}
       propertyPath: m_text
-      value: janek smierdziel
+      value: WHY CHAINSAWS ARE FLYING??!!
       objectReference: {fileID: 0}
     - target: {fileID: 4333519180068989353, guid: 3442e80c37fce49499ab5785e864d1d2, type: 3}
       propertyPath: m_Name
@@ -19518,7 +19518,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 790407209428633261, guid: 3442e80c37fce49499ab5785e864d1d2, type: 3}
       propertyPath: m_text
-      value: THAT'S A PORTAL, INNIT?
+      value: I'M PRETTY TRUNK IN MY PRETTY LITTLE WORLD
       objectReference: {fileID: 0}
     - target: {fileID: 4333519180068989353, guid: 3442e80c37fce49499ab5785e864d1d2, type: 3}
       propertyPath: m_Name
@@ -19875,7 +19875,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 790407209428633261, guid: 3442e80c37fce49499ab5785e864d1d2, type: 3}
       propertyPath: m_text
-      value: siusiaczek
+      value: NICE HAT, BRO
       objectReference: {fileID: 0}
     - target: {fileID: 4333519180068989353, guid: 3442e80c37fce49499ab5785e864d1d2, type: 3}
       propertyPath: m_Name
@@ -49328,7 +49328,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 790407209428633261, guid: 3442e80c37fce49499ab5785e864d1d2, type: 3}
       propertyPath: m_text
-      value: THAT'S A PORTAL, INNIT?
+      value: WHAT IF OAK ROOTS ARE TOES...
       objectReference: {fileID: 0}
     - target: {fileID: 4333519180068989353, guid: 3442e80c37fce49499ab5785e864d1d2, type: 3}
       propertyPath: m_Name
@@ -50177,7 +50177,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 790407209428633261, guid: 3442e80c37fce49499ab5785e864d1d2, type: 3}
       propertyPath: m_text
-      value: macius koks
+      value: DUNGEON MASTERS? MORE LIKE DISASTERS
       objectReference: {fileID: 0}
     - target: {fileID: 4333519180068989353, guid: 3442e80c37fce49499ab5785e864d1d2, type: 3}
       propertyPath: m_Name
@@ -50743,7 +50743,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 790407209428633261, guid: 3442e80c37fce49499ab5785e864d1d2, type: 3}
       propertyPath: m_text
-      value: 
+      value: ROOTSPANSION BEGINS!
       objectReference: {fileID: 0}
     - target: {fileID: 4333519180068989353, guid: 3442e80c37fce49499ab5785e864d1d2, type: 3}
       propertyPath: m_Name
@@ -51186,7 +51186,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 790407209428633261, guid: 3442e80c37fce49499ab5785e864d1d2, type: 3}
       propertyPath: m_text
-      value: olga siusiak
+      value: LOOKIN FOR EXIT? TURN AROUND, FELLA
       objectReference: {fileID: 0}
     - target: {fileID: 4333519180068989353, guid: 3442e80c37fce49499ab5785e864d1d2, type: 3}
       propertyPath: m_Name
