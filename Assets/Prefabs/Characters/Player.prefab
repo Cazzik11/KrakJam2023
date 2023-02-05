@@ -5255,9 +5255,25 @@ PrefabInstance:
       propertyPath: m_SortingLayerID
       value: 177762267
       objectReference: {fileID: 0}
+    - target: {fileID: 4154009897706853366, guid: 27852477a8d079d4292ca6166872f861, type: 3}
+      propertyPath: m_SortingLayer
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 4154009897706853366, guid: 27852477a8d079d4292ca6166872f861, type: 3}
+      propertyPath: m_SortingLayerID
+      value: 177762267
+      objectReference: {fileID: 0}
     - target: {fileID: 8154317735569463937, guid: 27852477a8d079d4292ca6166872f861, type: 3}
       propertyPath: m_Name
       value: Gun
+      objectReference: {fileID: 0}
+    - target: {fileID: 8177031725593788390, guid: 27852477a8d079d4292ca6166872f861, type: 3}
+      propertyPath: m_SortingLayer
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 8177031725593788390, guid: 27852477a8d079d4292ca6166872f861, type: 3}
+      propertyPath: m_SortingLayerID
+      value: 177762267
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 27852477a8d079d4292ca6166872f861, type: 3}
