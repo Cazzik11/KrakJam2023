@@ -57,7 +57,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 8154317735569463937}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0.357, y: -0.254, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -219,6 +219,22 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 2947918086609263921}
     m_Modifications:
+    - target: {fileID: 4638621968225919098, guid: 4df53699c3753fb43ad9048829c048b1, type: 3}
+      propertyPath: m_Size.x
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 4638621968225919098, guid: 4df53699c3753fb43ad9048829c048b1, type: 3}
+      propertyPath: m_Size.y
+      value: 13.75
+      objectReference: {fileID: 0}
+    - target: {fileID: 4638621968225919098, guid: 4df53699c3753fb43ad9048829c048b1, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 56fe744e3785b5c4abdaf4f318728425, type: 3}
+    - target: {fileID: 4638621968225919098, guid: 4df53699c3753fb43ad9048829c048b1, type: 3}
+      propertyPath: m_WasSpriteAssigned
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 5991039188100871247, guid: 4df53699c3753fb43ad9048829c048b1, type: 3}
       propertyPath: m_RootOrder
       value: 1
